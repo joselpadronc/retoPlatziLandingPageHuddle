@@ -22,7 +22,6 @@
 .main {
 	display: block;
 	background: transparent;
-	max-width: 1440px;
 	padding: 60px;
 }
 
@@ -178,7 +177,6 @@ footer {
 
 @media screen and (min-width: 1024px) {
 	.main{
-		max-width: 1440px;
 		display: grid;
 		grid-template-columns: 60% 40%;
 		grid-gap: 20px;
